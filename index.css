@@ -38,7 +38,7 @@ h2 {
     font-family: sans-serif;
 }
 
-h3 {
+h3, h4{
     font-family: sans-serif;
 }
 
@@ -92,4 +92,9 @@ p {
 content: "";
 clear: both;
 display: table;
+}
+
+details, summary {
+    font-family: sans-serif;
+    text-align: center;
 }
